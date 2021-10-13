@@ -1,0 +1,11 @@
+.rowContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}
+
+.rowContainer p {
+    font-size: 1.2rem;
+    word-wrap: break-word;
+
+}
